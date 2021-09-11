@@ -1,4 +1,4 @@
-# Bus-tracker <img src="portlandmap.png" width=100px>
+# Bus-tracker <img src="portlandmap.png" width=150px>
 
 **Title:** Real Time Bus Tracker
 
