@@ -3,7 +3,7 @@ mapboxgl.accessToken =
 
 var map = new mapboxgl.Map({
   container: "map",
-  style: "mapbox://styles/mapbox/streets-v11",
+  style: "mapbox://styles/mapbox/streets-v11", 
   center: [-71.104081, 42.365554],
   zoom: 14,
 });
@@ -11,7 +11,7 @@ var map = new mapboxgl.Map({
 var marker = new mapboxgl.Marker()
   .setLngLat([-71.092761, 42.357575])
   .addTo(map);
-
+ 
 const busStops = [
   [-71.093729, 42.359244],
   [-71.094915, 42.360175],

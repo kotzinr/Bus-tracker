@@ -16,3 +16,19 @@ body {
   padding: 10px;
 }
 
+#mitbutton {
+  background-color: aquamarine;
+  color: black;
+  border-color: aquamarine;
+ 
+}
+
+#mitbutton:hover {
+  background-color: cadetblue;
+  color: white;
+  border-color: cadetblue;
+}
+
+marker {
+  background-color: yellowgreen;
+}
